@@ -1,6 +1,5 @@
-:
-
 📚 Udemy Clone Website
+
 This is a responsive Udemy clone website that I built using HTML and CSS. The goal of this project was to recreate the look and feel of the Udemy platform's front-end as a part of my learning journey in web development. It helped me understand the structure of real-world websites and improve my skills in writing clean, organized code.
 
 🌟 Key Features:
